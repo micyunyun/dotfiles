@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = limic393@gmail.com
+	name = Yunyun Li
